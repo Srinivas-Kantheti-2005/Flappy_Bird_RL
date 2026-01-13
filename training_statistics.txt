@@ -1,0 +1,7 @@
+mean_score: 12.325
+median_score: 0.0
+std_score: 29.86167066659198
+max_score: 100
+min_score: 0
+final_loss: 0.560072332918644
+convergence_episode: None
